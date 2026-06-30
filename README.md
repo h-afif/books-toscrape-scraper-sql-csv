@@ -96,8 +96,5 @@ image_url TEXT
 
 ## 👨‍💻 Author
 
-Your Name
-
+hicham afif
 ---
-
-إلى بغيتي نخليه **أكثر احترافي (GitHub ready 100%) مع badges و screenshots** قولها 👍
