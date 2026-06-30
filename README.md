@@ -1,7 +1,3 @@
-فهمت عليك 👍 هاهي نسخة **نقية 100% بلا مشاكل ديال format ولا code blocks زايدة** — غير copy/paste فـ `README.md`:
-
----
-
 # 📚 Books Scraper – End-to-End Data Project
 
 ## 📌 Project Overview
