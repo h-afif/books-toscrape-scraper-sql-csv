@@ -56,7 +56,7 @@ while True:
     page_number += 1
 
 
-with open("books_info.csv", "w", encoding="utf-8") as file:
+with open("outputs/books_info.csv", "w", encoding="utf-8") as file:
     writer = csv.writer(file)
 
     writer.writerow(["Book link", "Img link", "Rating", "Title", "Price", "Stock"])
@@ -71,7 +71,7 @@ with open("books_info.csv", "w", encoding="utf-8") as file:
             item["Stock"]
         ])
 
-conn = sqlite3.connect("books_sql.db")
+conn = sqlite3.connect("outputs/books_sql.db")
 cursor = conn.cursor()
 
 cursor.execute("""
