@@ -143,4 +143,3 @@ This project is for educational purposes only. No real-world data is affected.
 
 غير قول 👍
 ```
- 
